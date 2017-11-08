@@ -1,2 +1,2 @@
-# Data Visualization for difficulty level of sports
+# Data visualization for difficulty level of sports
 
